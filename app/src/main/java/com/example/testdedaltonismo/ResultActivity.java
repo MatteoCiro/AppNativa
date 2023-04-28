@@ -23,3 +23,4 @@ public class ResultActivity extends AppCompatActivity {
         txtResult.setText(resultText);
     }
 }
+
