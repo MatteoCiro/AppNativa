@@ -1,3 +1,10 @@
+package com.example.testdedaltonismo;
+
+import android.os.Bundle;
+import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
+
 public class ResultActivity extends AppCompatActivity {
 
     TextView txtResult;
